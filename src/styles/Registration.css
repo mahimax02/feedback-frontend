@@ -1,0 +1,43 @@
+.registration-container {
+    width: 400px;
+    margin: 50px auto;
+    text-align: center;
+    background: #f8f8f8;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .registration-container h2 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .registration-container input {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .registration-container button {
+    background: #5cb85c;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .login-link{
+    color: #007bff;
+    cursor: pointer;
+  }
+  
+  .registration-container a {
+    color: #5cb85c;
+    text-decoration: none;
+  }
+  
